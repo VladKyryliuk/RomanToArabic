@@ -10,5 +10,5 @@ import org.example.Convertor.toArabic
 */
 
     fun main() {
-        println("MM".toArabic())
+        println("MMM".toArabic())
     }
